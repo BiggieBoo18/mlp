@@ -1,9 +1,0 @@
-#coding:utf-8
-
-def function(x):
-    ret = 2*x**2-3*x+5
-    return (ret)
-
-def d_function(x):
-    ret = 4*x-3
-    return (ret)
